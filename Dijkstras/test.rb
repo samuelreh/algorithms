@@ -1,6 +1,6 @@
-require_relative 'graph'
-require_relative 'edge'
-require_relative 'node'
+require_relative '../graph'
+require_relative '../edge'
+require_relative '../node'
 require_relative 'dijkstras'
 
 graph = Graph.new()
